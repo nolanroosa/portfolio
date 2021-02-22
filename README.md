@@ -20,4 +20,4 @@ While the graph has alot of extra elements that could be removed with more time 
 
 # Georgia
 
-!(caption)(./imagename.jpg)
+!(caption)(./georgia.png)
