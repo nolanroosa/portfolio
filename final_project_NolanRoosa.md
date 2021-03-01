@@ -12,7 +12,7 @@ Reader enters with some frustration towards people who dont vote....'I can do it
 
 
 # Initial Sketches
-![xx](finalBrainstorm.jpeg)
+![finalSketch](finalBrainstorm.jpeg)
 
 
 # The Data
