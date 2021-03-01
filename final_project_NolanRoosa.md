@@ -8,11 +8,11 @@ Reader enters with some frustration towards people who dont vote....'I can do it
 1. Who is not voting: introduce our characters
 3. Why are groups x,y,z not voting: our characters have alot going on!
 4. Is voting more challenging for different groups: AH HA moment of compassion
-5. How do we address this currently? Is it adequate in adressing the issues we just exposed?: Call to action
+5. How do we address this currently? Is it adequate in addressing the issues we just exposed?: Call to action
 
 
 # Initial Sketches
-
+![xx](finalBrainstorm.jpeg)
 
 
 # The Data
