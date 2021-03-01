@@ -12,7 +12,7 @@ Reader enters with some frustration towards people who dont vote....'I can do it
 
 
 # Initial Sketches
-![finalSketch](Screen Shot 2021-02-28 at 7.19.34 PM.png)
+![finalSketch](brainstorm.png)
 
 
 # The Data
