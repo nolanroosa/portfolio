@@ -39,3 +39,6 @@ https://www.americanprogress.org/issues/democracy/reports/2018/07/11/453319/incr
 
 Polling Data
 https://www.safegraph.com/2020-polling-location-data
+
+Spending Data
+https://www.brennancenter.org/sites/default/files/2020-04/2020_04_5StateCostAnalysis_0.pdf
