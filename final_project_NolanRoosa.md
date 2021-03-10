@@ -36,3 +36,6 @@ Why Many Americans Don't Vote
 https://projects.fivethirtyeight.com/non-voters-poll-2020-election/
 
 https://www.americanprogress.org/issues/democracy/reports/2018/07/11/453319/increasing-voter-participation-america/
+
+Polling Data
+https://www.safegraph.com/2020-polling-location-data
