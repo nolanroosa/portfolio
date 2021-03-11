@@ -1,4 +1,4 @@
-Storyboard and Wireframe:
+#Storyboard and Wireframe:
 https://carnegiemellon.shorthandstories.com/from-people-to-voters/index.html
 
 I used shorthand to create a rough storyboard and included my wireframed images. They include R and Tableau output.
@@ -7,13 +7,12 @@ I used shorthand to create a rough storyboard and included my wireframed images.
 
 
 
-
-Below is the user feedback I recieved on this storyboard and the wireframes:
+#Below is the user feedback I recieved on this storyboard and the wireframes:
 
 Target: People who experience frustration with people who do not vote.
 Approach: Ensuring that I speak with people who have differing political views, and are representative in age and gender.
 
-INTERVIEW 1
+##INTERVIEW 1
 What is your name, gender identity, political affiliation?
 
 D, Man, 23, Democrat
@@ -50,7 +49,7 @@ Remind of the scale of the issue before could help keep me more interested.
 
 
 
-INTERVIEW 2
+##INTERVIEW 2
 
 What is your name, gender identity, political affiliation?
 
@@ -88,7 +87,7 @@ I think you conveyed that there are other reasons people arent voting than being
 
 
 
-INTERVIEW 3
+##INTERVIEW 3
 What is your name, gender identity, political affiliation?
 
 M, Female, 22, Democrat
