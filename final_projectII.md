@@ -116,6 +116,13 @@ I think you did a good job holding on to that through the presentation.
 There are multiple reasons that people can vote and that its inconvenient and they cant get there to vote.
 
 
+# Actionable Changes
+1. Add graph next to difficulty to show that demographic does not affect wanting to vote
+2. Overlay maps
+3. Add scrolling tabs
+4. Make Y axis more intuitive on difficulty graph
+5. Transition from map to call to action with a example of something that can be done
+
 
 
 
