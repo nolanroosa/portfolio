@@ -5,8 +5,6 @@ I used shorthand to create a rough storyboard and included my wireframed images.
 
 
 
-
-
 # Below is the user feedback I recieved on this storyboard and the wireframes:
 
 Target: People who experience frustration with people who do not vote.
