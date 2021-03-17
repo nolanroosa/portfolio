@@ -12,6 +12,10 @@ I hope to learn how to more effectively communicate with the data I use on a dai
 
 ## Final Project: 
 
+[Part 1:](https://github.com/nolanroosa/portfolio/blob/main/finalProject/Final%20Project%20Part%20I)
+[Part 2:](https://github.com/nolanroosa/portfolio/blob/main/finalProject/Final%20Project%20Part%20II)
+[Part 3:](https://github.com/nolanroosa/portfolio/blob/main/finalProject/Final%20Project%20Part%20III)
+
 
 ## Other Assignments:
 
