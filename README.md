@@ -19,9 +19,9 @@ I hope to learn how to more effectively communicate with the data I use on a dai
 
 ## Other Assignments:
 
-[Georgia]
+[Georgia](https://github.com/nolanroosa/portfolio/blob/main/otherAssignments/Georgia.md)
 
-[Japanese debt to GDP Ratio]
+[Japanese debt to GDP Ratio](https://github.com/nolanroosa/portfolio/blob/main/otherAssignments/JapaneseDebtGDP.md)
 
 
 
